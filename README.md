@@ -1,0 +1,4 @@
+public
+======
+
+publicly shared information
